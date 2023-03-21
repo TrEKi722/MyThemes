@@ -23,7 +23,7 @@
   --background-image: url('https://img.freepik.com/free-photo/cosmic-background-with-colorful-laser-lights-perfect-digital-wallpaper_181624-32795.jpg?w=2000&t=st=1679429328~exp=1679429928~hmac=5d6345fd259509cf07e33956f05aacd1ed30210d7a4b0d8016f1173caf54fe31');
   --background-shading: 25%;
   --background-position: center;
-  --background-size: auto;
+  --background-size: contain;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
   --background-brightness: 144%;
